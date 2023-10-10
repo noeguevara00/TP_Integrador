@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.margin-nav{
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.comprar-link{
+    color: rgb(9, 163, 9);
+}
+
+p{
+    text-align: left;
+    font-size: 0.8rem;
+    color: rgb(65, 67, 68);
+}
+
+form p{
+    text-align: center;
+    font-size: 0.95rem;
+    color: rgb(7, 8, 8);
+    padding: 0;
+    margin: 0;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 2.1rem;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.subtitulo {
+    text-align: center;
+    font-size: 0.8rem;
+    padding-top: 10px;
+    margin: 0;
+}
+
+#oradores{
+    display: flex;
+    justify-content: center;
+}
+
+.myCard{
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-bottom: 2vw;
+    border-color: rgb(232, 229, 229);
+}
+
+.myCarrusel{
+    color: #fff;
+    font-size: 40px;
+    position: absolute;
+    top: 42.5%;
+    left: 50%;
+    right: 8.7%;
+    text-align: right;
+}
+
+.buttonCarrusel{
+    color: #fff;
+    margin-top: 22px;
+    margin-left: 8px;
+    font-size: 1.2rem;
+    background-color: rgb(49, 179, 59);
+}
+
+.myButton{
+    border-color: #fff;
+    color: fff;
+    background-color: rgb(57, 58, 62);  
+}
+
+.myButton2{
+    border-color: #fff;
+    color: rgb(222, 228, 235);
+    background-color: rgb(57, 58, 62);  
+}
+
+.buttonForm{
+    height: 2.8rem;
+    color: #fff;
+    font-size: larger;
+    background-color: rgb(138, 201, 71);
+}
+.conoceMas{
+    width: 100;
+    background-color: rgb(57, 58, 62);
+    color: white;
+}
+
+.honolulu1{
+    padding: 0;
+    margin: 0;
+}
+
+.honolulu2{
+    padding: 0;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    margin-left: 1rem;
+    margin-right: 0;
+    line-height: 24px; 
+    font-size: small;
+    font-weight: normal;
+    color: rgb(222, 228, 235);
+}
+
+.honolulu2-1{
+    color: #fff;
+    font-weight: bold; 
+    font: 1.6rem sans-serif;
+}
+
+.myBa1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./imagenes/ba1.jpg");
+}
+
+.section3 .section4{
+    position: flex;
+    top: 100%;
+    align-items: center;
+}
+
+.section4{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.myAnchor{
+    color: #fff;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    text-decoration: none;
+    font-size: medium;
+    text-align: center;
+}
+
+.myAnchor:hover{
+    color: chartreuse;
+}
+
+/*   */
